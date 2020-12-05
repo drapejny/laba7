@@ -4,7 +4,7 @@
 #include <Windows.h>
 #include <string.h>
 
-#define RUSSIAN_LETTERS 1251	//русская кодировка
+#define RUSSIAN_LETTERS 1251
 #define MAX_STRING_LENGTH 50	//максимальная вводимая длина строки
 
 int N = -1;				//кол-во вершин в графе
